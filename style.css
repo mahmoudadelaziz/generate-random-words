@@ -19,7 +19,8 @@ button {
 }
 
 button {
-  width: 100px;
+  width: 400px;
+  height: 200px;
 }
 
 #target {
